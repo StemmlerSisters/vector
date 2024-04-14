@@ -27,7 +27,7 @@
     "@sinclair/typebox": "0.12.7",
     "ajv": "6.12.6",
     "evt": "1.9.12",
-    "pino": "6.11.1",
+    "pino": "6.14.0",
     "pino-pretty": "4.6.0"
   },
   "devDependencies": {
