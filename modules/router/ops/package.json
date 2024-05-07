@@ -4,7 +4,7 @@
   "dependencies": {
     "prisma": "2.22.0",
     "hardhat": "2.2.0",
-    "pg": "8.5.1",
+    "pg": "8.11.5",
     "pino-pretty": "4.6.0",
     "sqlite3": "5.0.2"
   }
