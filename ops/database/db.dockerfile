@@ -1,4 +1,4 @@
-FROM postgres:12.6-alpine
+FROM postgres:12.20-alpine
 LABEL website="Secure Docker Images https://secureimages.dev"
 LABEL description="We secure your business from scratch"
 LABEL maintainer="support@secureimages.dev"
