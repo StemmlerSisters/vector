@@ -29,7 +29,7 @@
     "@ethersproject/wallet": "5.2.0",
     "@sinclair/typebox": "0.12.7",
     "ajv": "6.12.6",
-    "axios": "0.21.1",
+    "axios": "1.7.8",
     "dexie": "3.0.3",
     "pino": "6.11.1"
   },
