@@ -40,7 +40,7 @@
     "ethereumjs-util": "7.0.10",
     "eth-crypto": "1.8.0",
     "evt": "1.9.12",
-    "merkletreejs": "0.2.18",
+    "merkletreejs": "0.4.1",
     "pino": "6.11.1",
     "pino-pretty": "4.6.0",
     "ts-natsutil": "1.1.1"
