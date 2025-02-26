@@ -18,7 +18,7 @@
     "@ethersproject/abstract-provider": "5.2.0",
     "@ethersproject/abstract-signer": "5.2.0",
     "@ethersproject/bignumber": "5.2.0",
-    "@ethersproject/providers": "5.2.0",
+    "@ethersproject/providers": "5.8.0",
     "@sinclair/typebox": "0.12.7",
     "evt": "1.9.12"
   },
