@@ -24,13 +24,13 @@
     "@ethersproject/address": "5.2.0",
     "@ethersproject/bignumber": "5.2.0",
     "@ethersproject/constants": "5.2.0",
-    "@ethersproject/providers": "5.2.0",
+    "@ethersproject/providers": "5.8.0",
     "@ethersproject/solidity": "5.2.0",
     "@ethersproject/wallet": "5.2.0",
     "@sinclair/typebox": "0.12.7",
     "ajv": "6.12.6",
-    "axios": "0.21.1",
-    "dexie": "3.0.3",
+    "axios": "1.7.8",
+    "dexie": "3.0.4",
     "pino": "6.11.1"
   },
   "devDependencies": {
