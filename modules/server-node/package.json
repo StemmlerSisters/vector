@@ -31,7 +31,7 @@
     "pino": "6.11.1",
     "prisma": "2.22.0",
     "regenerator-runtime": "0.13.7",
-    "sqlite3": "5.0.2",
+    "sqlite3": "5.1.7",
     "ts-nats": "1.2.15"
   },
   "devDependencies": {
