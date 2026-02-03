@@ -24,14 +24,14 @@
     "ajv": "6.12.6",
     "axios": "0.21.1",
     "core-js": "3.9.1",
-    "fastify": "3.13.0",
+    "fastify": "5.7.3",
     "fastify-cors": "5.2.0",
     "fastify-oas": "3.0.8",
     "pg": "8.5.1",
     "pino": "6.11.1",
     "prisma": "2.22.0",
     "regenerator-runtime": "0.13.7",
-    "sqlite3": "5.0.2",
+    "sqlite3": "5.1.7",
     "ts-nats": "1.2.15"
   },
   "devDependencies": {
