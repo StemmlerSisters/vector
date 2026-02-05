@@ -27,7 +27,7 @@
     "copy-webpack-plugin": "6.2.1",
     "ethers": "5.2.0",
     "evt": "1.9.12",
-    "fastify": "3.13.0",
+    "fastify": "5.7.3",
     "p-queue": "6.6.2",
     "ts-loader": "8.0.7",
     "ts-mocha": "8.0.0",
